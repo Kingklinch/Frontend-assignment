@@ -36,16 +36,28 @@
 }
 .tp2a img{
     height: 70px;
+    margin-left: 50px;
 }
 .tp2b{
     width: 60%;
     background-color: white;
     display: flex;
     border-radius: 10px;
+    justify-content: space-between;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 .tp3{
     display: flex;
     justify-content: space-between;
+}
+.search{
+    background-color: blue;
+    border-radius: 25px;
+    padding-right: 50px;
+}
+.map{
+    margin: 25px;
 }
 .tp3a{
     width: 20%;
